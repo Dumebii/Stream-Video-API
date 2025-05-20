@@ -16,7 +16,7 @@ import {
   useCallStateHooks,
 } from '@stream-io/video-react-sdk';
 import '@stream-io/video-react-sdk/dist/css/styles.css';
-import { VideoSession } from './componenets/VideoSession';
+import { VideoSession } from './components/VideoSession';
 
 
 type SessionData = {
